@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
-        <p>&copy; 2024 Edusity. All rights reserved.</p>
+        <p>&copy; 2024 Edusity. Desinged by Rakesh J. All rights reserved.</p>
         <ul>
             <li>Terms of services</li>
             <li>Privacy Policy</li>
